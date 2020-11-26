@@ -1,4 +1,4 @@
-# Yt_Video_Display
+# YouTube_Video_Display
 
 A new Flutter project.
 
